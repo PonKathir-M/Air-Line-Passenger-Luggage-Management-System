@@ -2,6 +2,7 @@
 
 
 Description:
+
 This project is an Airline Passenger and Luggage Management System developed in C++. It allows users to manage passenger details, including personal information, meal preferences, and luggage details for both economy and business class passengers. The system also provides functionality for generating unique passenger IDs and managing meal preferences based on selected cuisines.
 
 Features:
@@ -22,11 +23,13 @@ Features:
         Provides a secret code for managers to view all passenger details.
 
 Technologies Used:
+
     -C++
     -Standard Template Library (STL)
     -File I/O for data storage
 
 How to Use:
+
     -Clone the repository to your local machine.
     -Open the project in a C++ IDE or compiler.
     -Compile and run the program.
@@ -42,4 +45,5 @@ bussiness_passenger.txt: Stores details of business class passengers.
 luggage.txt: Stores luggage details for passengers.
 
 Contribution:
+
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
