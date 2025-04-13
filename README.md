@@ -4,7 +4,8 @@
 Description:
 This project is an Airline Passenger and Luggage Management System developed in C++. It allows users to manage passenger details, including personal information, meal preferences, and luggage details for both economy and business class passengers. The system also provides functionality for generating unique passenger IDs and managing meal preferences based on selected cuisines.
 
-Features
+Features:
+
 1.Passenger Management:
         Collects and stores details of passengers, including ID, name, age, gender, nationality, and ticket number.
 2.Class Selection: 
